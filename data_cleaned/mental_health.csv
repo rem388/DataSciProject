@@ -1,0 +1,5 @@
+age_group,num_participants,mean_age,exercised_percentage,no_bad_mental_health_days_percentage,half_bad_mental_health_days_percentage,most_bad_menal_health_days_percentage
+15-24,23238,21.03,85.2,38.8,39.77,19.79
+25-44,82299,35.03,82.26,43.64,35.55,19.3
+45-64,108396,55.29,76.49,56.54,25.94,15.89
+65+,142225,73.83,72.06,71.61,17.43,8.8

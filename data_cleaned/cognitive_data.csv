@@ -1,0 +1,5 @@
+age_group,num_participants,mean_age,low_forgetfulness_percentage,medium_forgetfulness_percentage,high_forgetfulness_percentage,low_distractibility_percentage,medium_distractibility_percentage,high_distractibility_percentage,yes_false_triggering_percentage,no_false_triggering_percentage
+15-24,388,20.99,88.92,7.73,3.35,32.99,31.44,35.57,52.58,47.42
+25-44,960,33.66,90.63,6.67,2.71,35.21,33.23,31.56,49.27,50.73
+45-64,50,48.02,86.0,12.0,2.0,34.0,30.0,36.0,50.0,50.0
+65+,1,65.0,100.0,0.0,0.0,0.0,100.0,0.0,100.0,0.0
