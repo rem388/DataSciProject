@@ -1,0 +1,4 @@
+age_group,num_participants,mean_age,avg_education_training,avg_reading,avg_watching_tv,avg_word_games,avg_card_games_chess,avg_writing,avg_computer_internet,avg_hobbies,avg_exercising,avg_walking,avg_trouble_falling_asleep,avg_waking_at_night,avg_waking_too_early,avg_feeling_rested,avg_immediate_recall,avg_delayed_recall
+25-44,131,40.27,6.05,2.86,1.73,4.24,4.86,4.27,1.91,4.91,4.09,2.82,2.34,2.38,2.43,1.98,6.05,5.13
+45-64,6681,58.08,6.24,3.18,1.5,4.39,5.43,5.6,2.15,4.83,4.23,3.25,2.26,2.12,2.33,1.79,5.79,4.72
+65+,8975,75.26,6.49,2.55,1.35,4.15,5.35,5.68,2.95,4.95,4.39,3.63,2.33,2.13,2.39,1.59,5.05,3.98
