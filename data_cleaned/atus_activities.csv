@@ -1,0 +1,43 @@
+age_group,activity_type,activity,avg_minutes
+15-24,Active,Gaming,54.35
+25-34,Active,Gaming,33.75
+35-44,Active,Gaming,18.23
+45-54,Active,Gaming,10.98
+55-64,Active,Gaming,10.48
+65+,Active,Gaming,16.94
+15-24,Active,Exercising,31.55
+25-34,Active,Exercising,21.66
+35-44,Active,Exercising,19.87
+45-54,Active,Exercising,17.99
+55-64,Active,Exercising,16.98
+65+,Active,Exercising,18.21
+15-24,Active,Reading,10.71
+25-34,Active,Reading,11.95
+35-44,Active,Reading,13.39
+45-54,Active,Reading,13.88
+55-64,Active,Reading,16.8
+65+,Active,Reading,34.61
+15-24,Active,Writing,0.3
+25-34,Active,Writing,0.22
+35-44,Active,Writing,0.14
+45-54,Active,Writing,0.15
+55-64,Active,Writing,0.54
+65+,Active,Writing,0.5
+15-24,Active,Arts & Crafts,3.72
+25-34,Active,Arts & Crafts,1.49
+35-44,Active,Arts & Crafts,1.42
+45-54,Active,Arts & Crafts,1.64
+55-64,Active,Arts & Crafts,2.22
+65+,Active,Arts & Crafts,4.16
+15-24,Passive,Watching TV,115.74
+25-34,Passive,Watching TV,122.82
+35-44,Passive,Watching TV,117.1
+45-54,Passive,Watching TV,152.54
+55-64,Passive,Watching TV,194.79
+65+,Passive,Watching TV,261.7
+15-24,Passive,Computer Use,19.2
+25-34,Passive,Computer Use,14.19
+35-44,Passive,Computer Use,7.39
+45-54,Passive,Computer Use,12.02
+55-64,Passive,Computer Use,8.4
+65+,Passive,Computer Use,11.64
